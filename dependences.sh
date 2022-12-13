@@ -1,0 +1,1 @@
+npm i cheerio@1.0.0-rc.12 node-fetch@^2.6.1
